@@ -26,7 +26,7 @@ The stored cart includes product ID, name, quantity, and price.
 Project Structure
 The project follows the directory structure below:
 
-Copy code
+
 ├── css/
 │   ├── bag.css           # Styling for the cart page
 │   └── index.css         # Styling for the homepage
